@@ -19,5 +19,6 @@ Top 8 finalist at Global Hackathon 2024. Presented to Al-Hamraa Insurance, now b
 Smart Security Gate
 A simple Arduino-based system exhibited at my college’s 2025 engineering expo.
 
+📚Volunteer:
 UNITECH Ambassador @ Hub 200
 Representing my university, helping students gain market-ready skills.
