@@ -12,8 +12,6 @@ I'm a first-year Computer & Control Engineering student at the University of Tec
 
 🌐 SaaS Platform Development
 
-🎨 Graphic Design & Visual Creativity
-
 🌟 Projects:
 Aman – Digital Car Insurance App
 Top 8 finalist at Global Hackathon 2024. Presented to Al-Hamraa Insurance, now being developed as a SaaS model.
